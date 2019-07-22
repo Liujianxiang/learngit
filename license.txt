@@ -1,1 +1,2 @@
 This is a license example file.
+Add one note to show the difference.
