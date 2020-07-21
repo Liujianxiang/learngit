@@ -7,3 +7,4 @@ New line for testing the branch management.
 20200713: new line for megering with ff.
 20200713: Another try for megering with FF.
 20200713: Updating on master track.
+20200720: Fix problem on issue-101.
